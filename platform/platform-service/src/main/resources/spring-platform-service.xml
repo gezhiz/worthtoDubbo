@@ -16,4 +16,5 @@
                             base-package="com.worthto">
     </context:component-scan>
 
+    <import resource="classpath:platform-service-dubbo-provider.xml"/>
 </beans>
