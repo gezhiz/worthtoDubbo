@@ -21,6 +21,9 @@
 
   <properties>
     <version.worthto.common>1.0-SNAPSHOT</version.worthto.common>
+    <version.worthto.client>1.0-SNAPSHOT</version.worthto.client>
+    <version.worthto.freelancer>1.0-SNAPSHOT</version.worthto.freelancer>
+    <version.worthto.platform>1.0-SNAPSHOT</version.worthto.platform>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <javax.servlet.version>3.1.0</javax.servlet.version>
