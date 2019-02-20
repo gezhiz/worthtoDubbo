@@ -1,11 +1,12 @@
 package com.worthto.platform.facade.fina.domain;
 
+import java.io.Serializable;
 import java.util.Date;
 
 /**
  * Created by gezz on 2019/2/20.
  */
-public class FinanceAccount {
+public class FinanceAccount implements Serializable {
     private String id;
     private String name;
     private String mobile;
